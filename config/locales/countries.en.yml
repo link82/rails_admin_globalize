@@ -1,0 +1,101 @@
+en:
+  languages:
+    en: 'English'
+    it: 'Italian'
+    fr: 'French'
+    de: 'German'
+    es: 'Spanish'
+    pt: 'Portuguese'
+    zh: 'Chinese'
+    ru: 'Russian'
+    tr: 'Turkish'
+de:
+  languages:
+    en: 'Englisch'
+    it: 'Italienisch'
+    fr: 'Französisch'
+    de: 'Deutsch'
+    es: 'Spanisch'
+    pt: 'Portugiesisch'
+    zh: 'Chinese'
+    ru: 'Russian'
+    tr: 'Turkish'
+es:
+  languages:
+    en: 'Inglés'
+    it: 'Italiano'
+    fr: 'Francés'
+    de: 'Alemán'
+    es: 'Español'
+    pt: 'Portugués'
+    zh: 'Chinese'
+    ru: 'Russian'
+    tr: 'Turkish'
+
+fr:
+  languages:
+    en: 'Anglais'
+    it: 'Italien'
+    fr: 'Français'
+    de: 'Allemand'
+    es: 'Espagnol'
+    pt: 'Portugais'
+    zh: 'Chinese'
+    ru: 'Russian'
+    tr: 'Turkish'
+it:
+  languages:
+    en: 'Inglese'
+    it: 'Italiano'
+    fr: 'Francese'
+    de: 'Tedesco'
+    es: 'Spagnolo'
+    pt: 'Portoghese'
+    zh: 'Cinese'
+    ru: 'Russo'
+    tr: 'Turco'
+pt:
+  languages:
+    en: 'Inglês'
+    it: 'Italiano'
+    fr: 'Francês'
+    de: 'Alemão'
+    es: 'Espanhol'
+    pt: 'Português'
+    zh: 'Chinese'
+    ru: 'Russian'
+    tr: 'Turkish'
+ru:
+  languages:
+    en: 'Английский'
+    it: 'Итальянский'
+    fr: 'Французский'
+    de: 'Немецкий'
+    es: 'Испанский'
+    pt: 'Португальский'
+    zh: 'Китайский'
+    ru: 'Pусский'
+    tr: 'турецкий'
+tr:
+  languages:
+    en: 'Ingilizce'
+    it: 'İtalyan'
+    fr: 'Fransız'
+    de: 'Alman'
+    es: 'İspanyolca'
+    pt: 'Portekizce'
+    zh: 'Çin'
+    ru: 'Rus'
+    tr: 'Türk'
+
+zh:
+  languages:
+    en: '英语'
+    it: '意大利'
+    fr: '法国'
+    de: '德国'
+    es: '西班牙'
+    pt: '葡萄牙'
+    zh: '中国'
+    ru: '俄语'
+    tr: '土耳其'
